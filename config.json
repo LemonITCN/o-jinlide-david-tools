@@ -1,0 +1,8 @@
+{
+  "scale": 2,
+  "sourceExcel": "source.xlsx",
+  "sourceExcelFileNameColumn": 0,
+  "sourceExcelStartRow": 1,
+  "sourcePdf": "source.pdf",
+  "outputDir": "output/"
+}
