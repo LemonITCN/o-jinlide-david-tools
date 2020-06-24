@@ -26,6 +26,7 @@ def read_asin_data(excel_path: str) -> []:
         row_index = row_index + 1
     return name_list
 
+
 print('正在初始化程序数据...')
 global_data_module.init()
 print('正在解析配置文件并读取Excel...')
