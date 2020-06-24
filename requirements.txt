@@ -1,0 +1,7 @@
+altgraph==0.17
+et-xmlfile==1.0.1
+jdcal==1.4.1
+macholib==1.14
+openpyxl==3.0.3
+PyInstaller==3.6
+PyMuPDF==1.17.1
